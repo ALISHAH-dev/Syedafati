@@ -15,6 +15,13 @@ To build Flutter apps that don't just function well — but feel delightful, int
 - Flutter • Dart • Firebase
 - Statemanagement,Apis,UI
 - Git • Andriodstudio
+  
+  ## 📌 Projects
+- **[flutter-firebase-app](https://github.com/ALISHAH-dev/flutterintern)**: Firebase
+  authentication, REST API integration, profile picture picking (camera/gallery/web),
+  and push notifications.
+- **[tasky-flutter](https://github.com/ALISHAH-dev/flutteriternship)**: tasks, notes
+  and counter app using Provider and local storage.
 
 ## 📫 Contact
 - Email: fatiishah908@gmail.com
